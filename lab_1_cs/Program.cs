@@ -36,21 +36,6 @@ class Program
         Console.WriteLine("Имя: {0}  Рейтинг: {1}  ",  husbant.GetName, husbantIndex);
 
     }
-    
-    /* struct Prince
-     {
-         public string name;
-         public int rating;
-
-         public Prince(List<string> names, List<int> ratings)
-         {
-             name = names[0];
-             rating = ratings[0];
-         }
-     }*/
-
-
-
     }
 
 }

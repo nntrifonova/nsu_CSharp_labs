@@ -33,9 +33,4 @@ public class Hall
    return CreateContender(this.names[index],this.rates[index]);
   }
  }
- /*public static void GetNextPrince (List<string> names, List<int> rates)
- {
-  names.RemoveAt(0);  //убрать, чтоб не тянуть списки. Подумать как реализовать главный цикл.
-  rates.RemoveAt(0);
- }*/
 }
